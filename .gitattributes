@@ -60,6 +60,7 @@ database/create_oracle.sql -text
 database/create_postgresql.sql -text
 database/create_postgresql_bugreport.sql -text
 database/create_postgresql_bugreport_73.sql -text
+database/create_postgresql_bugreport_81.sql -text
 database/create_sqlite.sql -text
 database/create_sqlite3.sql -text
 database/create_sybase.sql -text
@@ -73,8 +74,10 @@ database/drop_mysql.sql -text
 database/drop_mysql_bugreport.sql -text
 database/drop_oracle.sql -text
 database/drop_postgresql.sql -text
+database/drop_postgresql_81.sql -text
 database/drop_postgresql_bugreport.sql -text
 database/drop_postgresql_bugreport_73.sql -text
+database/drop_postgresql_bugreport_81.sql -text
 database/drop_sqlite.sql -text
 database/drop_sybase.sql -text
 database/images/coffee.bmp -text
@@ -98,6 +101,7 @@ database/populate_mysql.sql -text
 database/populate_oracle.sql -text
 database/populate_postgresql.sql -text
 database/populate_postgresql_73.sql -text
+database/populate_postgresql_81.sql -text
 database/populate_sybase.sql -text
 database/test.properties -text
 database/test_template.properties -text

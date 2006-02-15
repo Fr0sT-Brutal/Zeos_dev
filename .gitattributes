@@ -25,6 +25,7 @@ artwork/ZeosLogo_small.gif -text
 artwork/favicon.ico -text
 build/GENDOC.CMD -text
 build/build.cmd -text
+build/build.properties -text
 build/build.xml -text
 build/build_template.properties -text
 build/clean.cmd -text
@@ -98,6 +99,7 @@ database/populate_oracle.sql -text
 database/populate_postgresql.sql -text
 database/populate_postgresql_73.sql -text
 database/populate_sybase.sql -text
+database/test.properties -text
 database/test_template.properties -text
 database/text/gnu.txt -text
 database/text/lgpl.txt -text

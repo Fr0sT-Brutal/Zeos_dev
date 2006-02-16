@@ -1842,7 +1842,8 @@ src/plain/ZPlainMySql41.pas -text
 src/plain/ZPlainMySqlDriver.pas -text
 src/plain/ZPlainOracle9i.pas -text
 src/plain/ZPlainOracleDriver.pas -text
-src/plain/ZPlainPostgreSql-7.pas -text
+src/plain/ZPlainPostgreSql7.pas -text
+src/plain/ZPlainPostgreSql8.pas -text
 src/plain/ZPlainPostgreSqlDriver.pas -text
 src/plain/ZPlainSqLite28.pas -text
 src/plain/ZPlainSqLite3.pas -text

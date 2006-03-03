@@ -1908,8 +1908,8 @@ test/dbc/ZTestDbcResultSetMetadata.pas -text
 test/dbc/ZTestDbcSqLite.pas -text
 test/dbc/ZTestDbcUtils.pas -text
 test/external/MemCheck.pas -text
-test/external/xTestFrameWork.pas -text
-test/external/xTextTestRunner.pas -text
+test/external/TestFrameWork.pas -text
+test/external/TextTestRunner.pas -text
 test/framework/ZBugReport.pas -text
 test/framework/ZMidasTestCase.dfm -text
 test/framework/ZMidasTestCase.pas -text

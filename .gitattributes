@@ -107,6 +107,7 @@ database/test.properties -text
 database/test_template.properties -text
 database/text/gnu.txt -text
 database/text/lgpl.txt -text
+developer_diary/common/firmos.txt -text
 developer_diary/mysql/firmos.txt -text
 developer_diary/postgresql/firmos.txt -text
 documentation/articles/bugreporting/bugreporting.bcf -text

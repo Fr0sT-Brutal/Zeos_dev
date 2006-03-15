@@ -1928,7 +1928,6 @@ test/external/TestModules.pas -text
 test/external/TextTestRunner.pas -text
 test/external/dunit.bpg -text
 test/external/dunit.dpr -text
-test/external/images/Thumbs.db -text
 test/external/images/actions_images.bmp -text
 test/external/images/dunit.ico -text
 test/external/images/dunit16.ico -text

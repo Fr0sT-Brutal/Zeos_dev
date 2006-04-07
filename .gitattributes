@@ -1913,6 +1913,7 @@ test/external/DUnitMainForm.dfm -text
 test/external/DUnitMainForm.pas -text
 test/external/DunitAbout.dfm -text
 test/external/DunitAbout.pas -text
+test/external/FirmOS_GUITestRunner.dfm -text
 test/external/FirmOS_GUITestRunner.pas -text
 test/external/GUITestRunner.dfm -text
 test/external/GUITestRunner.pas -text

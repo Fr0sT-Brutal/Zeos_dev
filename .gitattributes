@@ -1309,10 +1309,12 @@ examples/simple/ZSimple.res -text
 examples/simple/ZSimpleMain.dfm -text
 examples/simple/ZSimpleMain.pas -text
 examples/sybase.sql -text
+lib/mysql/libmySQL50-18.dll -text
 lib/mysql/libmysql320.dll -text
 lib/mysql/libmysql323.dll -text
 lib/mysql/libmysql40.dll -text
 lib/mysql/libmysql41.dll -text
+lib/mysql/libmysql50-24.dll -text
 lib/postgresql/libpq73.dll -text
 lib/postgresql/libpq74.dll -text
 lib/postgresql/libpq80.dll -text
@@ -1837,9 +1839,6 @@ src/plain/ZPlainInterbase5.pas -text
 src/plain/ZPlainInterbase6.pas -text
 src/plain/ZPlainInterbaseDriver.pas -text
 src/plain/ZPlainLoader.pas -text
-src/plain/ZPlainMySql320.pas -text
-src/plain/ZPlainMySql323.pas -text
-src/plain/ZPlainMySql40.pas -text
 src/plain/ZPlainMySql41.pas -text
 src/plain/ZPlainMySql5.pas -text
 src/plain/ZPlainMySqlDriver.pas -text

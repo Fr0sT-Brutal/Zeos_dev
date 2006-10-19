@@ -1889,6 +1889,9 @@ src/plain/ZPlainInterbase5.pas -text
 src/plain/ZPlainInterbase6.pas -text
 src/plain/ZPlainInterbaseDriver.pas -text
 src/plain/ZPlainLoader.pas -text
+src/plain/ZPlainMySql320.pas -text
+src/plain/ZPlainMySql323.pas -text
+src/plain/ZPlainMySql40.pas -text
 src/plain/ZPlainMySql41.pas -text
 src/plain/ZPlainMySql5.pas -text
 src/plain/ZPlainMySqlDriver.pas -text

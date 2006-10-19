@@ -1377,13 +1377,11 @@ lib/firebird/windows/32bit/2.0.0.12710/intl/fbintl.conf -text
 lib/firebird/windows/32bit/2.0.0.12710/intl/fbintl.dll -text
 lib/firebird/windows/32bit/2.0.0.12710/udf/fbudf.dll -text
 lib/firebird/windows/32bit/2.0.0.12710/udf/ib_udf.dll -text
-lib/mysql/libmySQL50-18.dll -text
 lib/mysql/libmySQL50.dll -text
 lib/mysql/libmysql320.dll -text
 lib/mysql/libmysql323.dll -text
 lib/mysql/libmysql40.dll -text
 lib/mysql/libmysql41.dll -text
-lib/mysql/libmysql50-24.dll -text
 lib/mysql/libmysqld41.dll -text
 lib/mysql/libmysqld50.dll -text
 lib/postgresql/libpq73.dll -text

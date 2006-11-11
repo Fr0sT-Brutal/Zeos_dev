@@ -99,6 +99,7 @@ database/text/gnu.txt -text
 database/text/lgpl.txt -text
 developer_diary/common/firmos.txt -text
 developer_diary/common/mdaems.txt -text
+developer_diary/common/mseeger.txt -text
 developer_diary/interbase/mdaems.txt -text
 developer_diary/mysql/firmos.txt -text
 developer_diary/mysql/ideas_mdaems.txt -text
@@ -1389,6 +1390,8 @@ lib/postgresql/libpq74.dll -text
 lib/postgresql/libpq80.dll -text
 lib/postgresql/libpq81.dll -text
 lib/sqlite/sqlite-3.3.8.so -text
+lib/sqlite/sqlite.def -text
+lib/sqlite/sqlite.dll -text
 lib/sqlite/sqlite3.def -text
 lib/sqlite/sqlite3.dll -text
 packages/cbuilder5/ZComponent.bpk -text

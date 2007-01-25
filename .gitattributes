@@ -1586,7 +1586,10 @@ packages/delphi7/ZComponent.cfg -text
 packages/delphi7/ZComponent.dof -text
 packages/delphi7/ZComponent.dpk -text
 packages/delphi7/ZComponent.res -text
+packages/delphi7/ZComponentDesign.cfg -text
+packages/delphi7/ZComponentDesign.dof -text
 packages/delphi7/ZComponentDesign.dpk -text
+packages/delphi7/ZComponentDesign.res -text
 packages/delphi7/ZCore.cfg -text
 packages/delphi7/ZCore.dof -text
 packages/delphi7/ZCore.dpk -text
@@ -1909,9 +1912,8 @@ src/plain/ZPlainPostgreSqlDriver.pas -text
 src/plain/ZPlainSqLite28.pas -text
 src/plain/ZPlainSqLite3.pas -text
 src/plain/ZPlainSqLiteDriver.pas -text
-src/plain/old_ZPlainPostgreSql73.pas -text
-src/plain/old_ZPlainPostgreSql80.pas -text
-src/plain/old_ZPlainPostgreSqlDriver.pas -text
+src/repl.awk -text
+src/repl.txt -text
 test/bugreport/ZBugReport.inc -text
 test/bugreport/ZTestCompASA.pas -text
 test/bugreport/ZTestCompCore.pas -text

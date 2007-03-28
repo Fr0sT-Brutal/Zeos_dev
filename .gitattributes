@@ -1917,8 +1917,10 @@ src/plain/ZPlainMySql40.pas -text
 src/plain/ZPlainMySql41.pas -text
 src/plain/ZPlainMySql5.pas -text
 src/plain/ZPlainMySqlDriver.pas -text
-src/plain/ZPlainMysql.inc -text
 src/plain/ZPlainMysqlConstants.pas -text
+src/plain/ZPlainMysqlFunc.inc -text
+src/plain/ZPlainMysqlRec.inc -text
+src/plain/ZPlainMysqlVar.inc -text
 src/plain/ZPlainOracle9i.pas -text
 src/plain/ZPlainOracleDriver.pas -text
 src/plain/ZPlainPostgreSql7.pas -text

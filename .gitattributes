@@ -109,6 +109,7 @@ developer_diary/oracle/mdaems.txt -text
 developer_diary/postgresql/firmos.txt -text
 developer_diary/postgresql/mdaems.txt -text
 developer_diary/sqlite/mdaems.txt -text
+documentation/Doxyfile -text
 documentation/articles/bugreporting/bugreporting.bcf -text
 documentation/articles/bugreporting/bugreporting.xml -text
 documentation/articles/bugreporting/entities.xml -text
@@ -1244,6 +1245,9 @@ documentation/development/newfeatures/reports/949055.TXT -text
 documentation/development/newfeatures/reports/987280.TXT -text
 documentation/development/newfeatures/reports/Property-Default-Values.txt -text
 documentation/development/newfeatures/reports/SqlProcessor-Parameter.txt -text
+documentation/doxygen_build.bat -text
+documentation/doxygen_build.sh -text
+documentation/doxygen_readme.txt -text
 documentation/eDE_patches/DocBook/bat/docbook_chunk.bat -text
 documentation/eDE_patches/DocBook/bat/docbook_deploy.bat -text
 documentation/eDE_patches/DocBook/bat/docbook_html.bat -text
@@ -1264,12 +1268,14 @@ documentation/fundamentals/ZeosLib[!!-~]BTE.doc -text
 documentation/images/banner.jpg -text
 documentation/images/banner2.jpg -text
 documentation/images/zeos_logo.gif -text
+documentation/linux_extra -text
 documentation/logs/performance/test-050403.txt -text
 documentation/logs/performance/test-130403.txt -text
 documentation/logs/performance/test-250703.txt -text
 documentation/logs/performance/test-280703.txt -text
 documentation/logs/performance/test-290703.txt -text
 documentation/logs/performance/test-300503.txt -text
+documentation/windows_extra -text
 examples/blobs/ZBlobs.cfg -text
 examples/blobs/ZBlobs.dof -text
 examples/blobs/ZBlobs.dpr -text

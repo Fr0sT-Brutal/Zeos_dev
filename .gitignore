@@ -1,3 +1,4 @@
+/doc
 packages/delphi7/*.~dpk
 packages/delphi7/build/*.dcu
 packages/delphi7/build/*.exe

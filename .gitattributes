@@ -35,8 +35,13 @@ build/release.cmd -text
 build/release.xml -text
 build/release_svn.cmd -text
 build/release_svn.xml -text
+build/release_svn_testing.cmd -text
 build/releasedoc.cmd -text
 build/releasedoc.xml -text
+build/svnClientAdapter.jar -text
+build/svnant.jar -text
+build/svnjavahl.dll -text
+build/svnjavahl.jar -text
 build/test.cmd -text
 build/test.xml -text
 database/create_asa.sql -text

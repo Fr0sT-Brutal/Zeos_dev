@@ -1,4 +1,6 @@
 * text=auto !eol
+/COPYING -text
+/COPYING.ZEOS -text
 artwork/BmpToXpm.dpr -text
 artwork/BmpToXpm.lpi -text
 artwork/Make_DCR.bat -text
@@ -36,6 +38,7 @@ build/release.xml -text
 build/release_svn.cmd -text
 build/release_svn.xml -text
 build/release_svn_testing.cmd -text
+build/release_svn_trunk.cmd -text
 build/releasedoc.cmd -text
 build/releasedoc.xml -text
 build/svnClientAdapter.jar -text

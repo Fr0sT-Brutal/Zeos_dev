@@ -1,5 +1,4 @@
 * text=auto !eol
-/COPYING.ZEOS -text
 artwork/BmpToXpm.dpr -text
 artwork/BmpToXpm.lpi -text
 artwork/Make_DCR.bat -text

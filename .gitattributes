@@ -39,6 +39,7 @@ build/release_svn.cmd -text
 build/release_svn.xml -text
 build/release_svn_testing.cmd -text
 build/release_svn_trunk.cmd -text
+build/release_tagged.cmd -text
 build/releasedoc.cmd -text
 build/releasedoc.xml -text
 build/svnClientAdapter.jar -text

@@ -1547,11 +1547,16 @@ packages/delphi11/ZPlain.drc -text
 packages/delphi11/ZPlain.res -text
 packages/delphi11/ZTestBugReport.dpr -text
 packages/delphi11/ZTestComponentAll.dpr -text
+packages/delphi11/ZTestComponentAll.dproj -text
 packages/delphi11/ZTestCoreAll.dpr -text
+packages/delphi11/ZTestCoreAll.dproj -text
 packages/delphi11/ZTestDbcAll.dpr -text
+packages/delphi11/ZTestDbcAll.dproj -text
 packages/delphi11/ZTestFramework.dpk -text
+packages/delphi11/ZTestFramework.dproj -text
 packages/delphi11/ZTestFramework.res -text
 packages/delphi11/ZTestParseSqlAll.dpr -text
+packages/delphi11/ZTestParseSqlAll.dproj -text
 packages/delphi11/ZTestPerformance.dpr -text
 packages/delphi11/ZeosDbo.groupproj -text
 packages/delphi11/ZeosDboDev.groupproj -text
@@ -2009,6 +2014,7 @@ test/bugreport/ZTestDbcInterbase.pas -text
 test/bugreport/ZTestDbcMySql.pas -text
 test/bugreport/ZTestDbcPostgreSql.pas -text
 test/component/ZComponent.inc -text
+test/component/ZTestConnection.pas -text
 test/component/ZTestData.pas -text
 test/component/ZTestDataSetGeneric.pas -text
 test/component/ZTestExecuteSql.pas -text

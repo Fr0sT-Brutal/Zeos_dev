@@ -119,6 +119,7 @@ developer_diary/oracle/mdaems.txt -text
 developer_diary/postgresql/firmos.txt -text
 developer_diary/postgresql/mdaems.txt -text
 developer_diary/sqlite/mdaems.txt -text
+developer_diary/sybase/mdaems.txt -text
 documentation/Doxyfile -text
 documentation/articles/bugreporting/bugreporting.bcf -text
 documentation/articles/bugreporting/bugreporting.xml -text

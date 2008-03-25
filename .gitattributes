@@ -108,6 +108,7 @@ database/test_template.properties -text
 database/text/gnu.txt -text
 database/text/lgpl.txt -text
 developer_diary/ADO/mdaems.txt -text
+developer_diary/ASA/mdaems.txt -text
 developer_diary/common/firmos.txt -text
 developer_diary/common/mdaems.txt -text
 developer_diary/common/mseeger.txt -text

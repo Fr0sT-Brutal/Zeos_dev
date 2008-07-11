@@ -1859,6 +1859,7 @@ src/component/ZComponentReg.pas -text
 src/component/ZConnection.pas -text
 src/component/ZDataset.pas -text
 src/component/ZDatasetUtils.pas -text
+src/component/ZIBEventAlerter.pas -text
 src/component/ZPropertyEditor.pas -text
 src/component/ZQuerySQLEditor.pas -text
 src/component/ZROSqlEditor.pas -text

@@ -762,8 +762,6 @@ src/plain/ZPlainASA9.pas -text
 src/plain/ZPlainASADriver.pas -text
 src/plain/ZPlainAdo.pas -text
 src/plain/ZPlainAdoDriver.pas -text
-src/plain/ZPlainDb2.pas -text
-src/plain/ZPlainDb2Driver.pas -text
 src/plain/ZPlainDbLibDriver.pas -text
 src/plain/ZPlainDbLibMsSql7.pas -text
 src/plain/ZPlainDbLibSybaseAse125.pas -text

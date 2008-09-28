@@ -2,6 +2,7 @@
 /COPYING -text
 /COPYING.ZEOS -text
 artwork/BmpToXpm.dpr -text
+artwork/BmpToXpm.exe -text
 artwork/BmpToXpm.lpi -text
 artwork/Make_DCR.bat -text
 artwork/Make_LSR.bat -text

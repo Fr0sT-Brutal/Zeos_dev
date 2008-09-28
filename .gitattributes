@@ -19,6 +19,7 @@ artwork/ZComponent.rc -text
 artwork/ZeosBanner_small.png -text
 artwork/ZeosLogo_small.gif -text
 artwork/favicon.ico -text
+artwork/lazres.exe -text
 build/GENDOC.CMD -text
 build/build.cmd -text
 build/build.properties -text

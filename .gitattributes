@@ -27,6 +27,10 @@ artwork/TZStoredProc.bmp -text
 artwork/TZStoredProc.xpm -text
 artwork/TZTable.bmp -text
 artwork/TZTable.xpm -text
+artwork/TZUpdateSQL.bmp -text svneol=unset#unset
+artwork/TZUpdateSQL.png -text
+artwork/TZUpdateSQL.xcf -text
+artwork/TZUpdateSQL.xpm -text
 artwork/TZUpdateSql.bmp -text
 artwork/TZUpdateSql.xpm -text
 artwork/ZComponent.rc -text

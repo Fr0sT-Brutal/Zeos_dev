@@ -5,6 +5,10 @@ artwork/BmpToXpm.dpr -text
 artwork/BmpToXpm.lpi -text
 artwork/Make_DCR.bat -text
 artwork/Make_LSR.bat -text
+artwork/TIBEventAlerter.bmp -text
+artwork/TIBEventAlerter.png -text
+artwork/TIBEventAlerter.xcf -text
+artwork/TIBEventalerter.xpm -text
 artwork/TZConnection.bmp -text
 artwork/TZConnection.xpm -text
 artwork/TZQuery.bmp -text

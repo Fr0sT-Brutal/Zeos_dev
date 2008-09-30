@@ -6,14 +6,14 @@ artwork/BmpToXpm.exe -text
 artwork/BmpToXpm.lpi -text
 artwork/Make_DCR.bat -text
 artwork/Make_LSR.bat -text
-artwork/TIBEventAlerter.bmp -text
-artwork/TIBEventAlerter.png -text
-artwork/TIBEventAlerter.xcf -text
-artwork/TIBEventalerter.xpm -text
 artwork/TZConnection.bmp -text
 artwork/TZConnection.png -text
 artwork/TZConnection.xcf -text
 artwork/TZConnection.xpm -text
+artwork/TZIBEventAlerter.bmp -text
+artwork/TZIBEventAlerter.png -text
+artwork/TZIBEventAlerter.xcf -text
+artwork/TZIBEventAlerter.xpm -text
 artwork/TZQuery.bmp -text
 artwork/TZQuery.png -text
 artwork/TZQuery.xcf -text
@@ -53,6 +53,7 @@ artwork/TZUpdateSQL.xpm -text
 artwork/TZUpdateSql.bmp -text
 artwork/TZUpdateSql.xpm -text
 artwork/ZComponent.rc -text
+artwork/ZComponentReg.lrs -text
 artwork/ZeosBanner_small.png -text
 artwork/ZeosLogo_small.gif -text
 artwork/favicon.ico -text

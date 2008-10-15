@@ -473,6 +473,7 @@ packages/delphi10/ZCore.res -text
 packages/delphi10/ZDbc.bdsproj -text
 packages/delphi10/ZDbc.dpk -text
 packages/delphi10/ZDbc.res -text
+packages/delphi10/ZPackages.inc -text
 packages/delphi10/ZParseSql.bdsproj -text
 packages/delphi10/ZParseSql.dpk -text
 packages/delphi10/ZParseSql.res -text
@@ -508,6 +509,7 @@ packages/delphi11/ZCore.res -text
 packages/delphi11/ZDbc.dpk -text
 packages/delphi11/ZDbc.dproj -text
 packages/delphi11/ZDbc.res -text
+packages/delphi11/ZPackages.inc -text
 packages/delphi11/ZParseSql.dpk -text
 packages/delphi11/ZParseSql.dproj -text
 packages/delphi11/ZParseSql.res -text
@@ -602,6 +604,7 @@ packages/delphi9/ZDbc.cfg -text
 packages/delphi9/ZDbc.dpk -text
 packages/delphi9/ZDbc.drc -text
 packages/delphi9/ZDbc.res -text
+packages/delphi9/ZPackages.inc -text
 packages/delphi9/ZParseSql.bdsproj -text
 packages/delphi9/ZParseSql.cfg -text
 packages/delphi9/ZParseSql.dpk -text

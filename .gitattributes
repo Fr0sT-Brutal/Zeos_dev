@@ -679,10 +679,15 @@ packages/kylix3/build/dummy.txt -text
 packages/lazarus/README.TXT -text
 packages/lazarus/build/dummy.txt -text
 packages/lazarus/zcomponent.lpk -text
+packages/lazarus/zcomponent.pas -text
 packages/lazarus/zcore.lpk -text
+packages/lazarus/zcore.pas -text
 packages/lazarus/zdbc.lpk -text
+packages/lazarus/zdbc.pas -text
 packages/lazarus/zparsesql.lpk -text
+packages/lazarus/zparsesql.pas -text
 packages/lazarus/zplain.lpk -text
+packages/lazarus/zplain.pas -text
 src/Zeos.inc -text
 src/component/ZAbstractDataset.pas -text
 src/component/ZAbstractRODataset.pas -text
@@ -809,6 +814,7 @@ src/plain/ZPlainDriver.pas -text
 src/plain/ZPlainFirebird10.pas -text
 src/plain/ZPlainFirebird15.pas -text
 src/plain/ZPlainFirebird20.pas -text
+src/plain/ZPlainFirebird21.pas -text
 src/plain/ZPlainFirebirdDriver.pas -text
 src/plain/ZPlainFirebirdInterbaseConstants.pas -text
 src/plain/ZPlainInterbase5.pas -text

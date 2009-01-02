@@ -2,35 +2,35 @@
 /COPYING -text
 /COPYING.ZEOS -text
 artwork/BmpToXpm.dpr -text
-artwork/BmpToXpm.exe -text
+artwork/BmpToXpm.exe -text svneol=unset#unset
 artwork/BmpToXpm.lpi -text
 artwork/Make_DCR.bat -text
 artwork/Make_LSR.bat -text
 artwork/TZConnection.bmp -text
-artwork/TZConnection.png -text
-artwork/TZConnection.xcf -text
+artwork/TZConnection.png -text svneol=unset#unset
+artwork/TZConnection.xcf -text svneol=unset#unset
 artwork/TZConnection.xpm -text
 artwork/TZIBEventAlerter.bmp -text
 artwork/TZIBEventAlerter.png -text
 artwork/TZIBEventAlerter.xcf -text
 artwork/TZIBEventAlerter.xpm -text
 artwork/TZQuery.bmp -text
-artwork/TZQuery.png -text
-artwork/TZQuery.xcf -text
+artwork/TZQuery.png -text svneol=unset#unset
+artwork/TZQuery.xcf -text svneol=unset#unset
 artwork/TZQuery.xpm -text
 artwork/TZReadOnlyQuery.bmp -text
-artwork/TZReadOnlyQuery.png -text
-artwork/TZReadOnlyQuery.xcf -text
+artwork/TZReadOnlyQuery.png -text svneol=unset#unset
+artwork/TZReadOnlyQuery.xcf -text svneol=unset#unset
 artwork/TZReadOnlyQuery.xpm -text
-artwork/TZSQLMetadata.png -text
-artwork/TZSQLMetadata.xcf -text
-artwork/TZSQLMonitor.png -text
-artwork/TZSQLMonitor.xcf -text
-artwork/TZSQLProcessor.png -text
-artwork/TZSQLProcessor.xcf -text
+artwork/TZSQLMetadata.png -text svneol=unset#unset
+artwork/TZSQLMetadata.xcf -text svneol=unset#unset
+artwork/TZSQLMonitor.png -text svneol=unset#unset
+artwork/TZSQLMonitor.xcf -text svneol=unset#unset
+artwork/TZSQLProcessor.png -text svneol=unset#unset
+artwork/TZSQLProcessor.xcf -text svneol=unset#unset
 artwork/TZSequence.bmp -text
-artwork/TZSequence.png -text
-artwork/TZSequence.xcf -text
+artwork/TZSequence.png -text svneol=unset#unset
+artwork/TZSequence.xcf -text svneol=unset#unset
 artwork/TZSequence.xpm -text
 artwork/TZSqlMetaData.xpm -text
 artwork/TZSqlMetadata.bmp -text
@@ -39,23 +39,23 @@ artwork/TZSqlMonitor.xpm -text
 artwork/TZSqlProcessor.bmp -text
 artwork/TZSqlProcessor.xpm -text
 artwork/TZStoredProc.bmp -text
-artwork/TZStoredProc.png -text
-artwork/TZStoredProc.xcf -text
+artwork/TZStoredProc.png -text svneol=unset#unset
+artwork/TZStoredProc.xcf -text svneol=unset#unset
 artwork/TZStoredProc.xpm -text
 artwork/TZTable.bmp -text
-artwork/TZTable.png -text
-artwork/TZTable.xcf -text
+artwork/TZTable.png -text svneol=unset#unset
+artwork/TZTable.xcf -text svneol=unset#unset
 artwork/TZTable.xpm -text
 artwork/TZUpdateSQL.bmp -text svneol=unset#unset
-artwork/TZUpdateSQL.png -text
-artwork/TZUpdateSQL.xcf -text
+artwork/TZUpdateSQL.png -text svneol=unset#unset
+artwork/TZUpdateSQL.xcf -text svneol=unset#unset
 artwork/TZUpdateSQL.xpm -text
 artwork/ZComponent.rc -text
 artwork/ZComponentReg.lrs -text
 artwork/ZeosBanner_small.png -text
 artwork/ZeosLogo_small.gif -text
 artwork/favicon.ico -text
-artwork/lazres.exe -text
+artwork/lazres.exe -text svneol=unset#unset
 build/GENDOC.CMD -text
 build/build.cmd -text
 build/build.properties -text
@@ -144,6 +144,7 @@ database/text/lgpl.txt -text
 developer_diary/ADO/mdaems.txt -text
 developer_diary/ASA/mdaems.txt -text
 developer_diary/common/firmos.txt -text
+developer_diary/common/gto.txt -text
 developer_diary/common/mdaems.txt -text
 developer_diary/common/mseeger.txt -text
 developer_diary/interbase/mdaems.txt -text
@@ -405,12 +406,11 @@ lib/firebird/windows/32bit/2.1.1.17910/intl/fbintl.dll -text
 lib/firebird/windows/32bit/2.1.1.17910/udf/fbudf.dll -text
 lib/firebird/windows/32bit/2.1.1.17910/udf/ib_udf.dll -text
 lib/mysql/libmySQL50.dll -text
-lib/mysql/libmysql320.dll -text
-lib/mysql/libmysql323.dll -text
-lib/mysql/libmysql40.dll -text
 lib/mysql/libmysql41.dll -text
+lib/mysql/libmysql51.dll -text
 lib/mysql/libmysqld41.dll -text
 lib/mysql/libmysqld50.dll -text
+lib/mysql/libmysqld51.dll -text
 lib/postgresql/libpq73.dll -text
 lib/postgresql/libpq74.dll -text
 lib/postgresql/libpq80.dll -text
@@ -531,6 +531,42 @@ packages/delphi11/ZTestParseSqlAll.dproj -text
 packages/delphi11/ZTestPerformance.dpr -text
 packages/delphi11/ZeosDbo.groupproj -text
 packages/delphi11/ZeosDboDev.groupproj -text
+packages/delphi12/ZComponent.dpk -text
+packages/delphi12/ZComponent.dproj -text
+packages/delphi12/ZComponent.res -text
+packages/delphi12/ZComponentDesign.dpk -text
+packages/delphi12/ZComponentDesign.dproj -text
+packages/delphi12/ZComponentDesign.res -text
+packages/delphi12/ZCore.dpk -text
+packages/delphi12/ZCore.dproj -text
+packages/delphi12/ZCore.res -text
+packages/delphi12/ZDbc.dpk -text
+packages/delphi12/ZDbc.dproj -text
+packages/delphi12/ZDbc.res -text
+packages/delphi12/ZPackages.inc -text
+packages/delphi12/ZParseSql.dpk -text
+packages/delphi12/ZParseSql.dproj -text
+packages/delphi12/ZParseSql.res -text
+packages/delphi12/ZPlain.bdsproj -text
+packages/delphi12/ZPlain.dpk -text
+packages/delphi12/ZPlain.dproj -text
+packages/delphi12/ZPlain.drc -text
+packages/delphi12/ZPlain.res -text
+packages/delphi12/ZTestBugReport.dpr -text
+packages/delphi12/ZTestComponentAll.dpr -text
+packages/delphi12/ZTestComponentAll.dproj -text
+packages/delphi12/ZTestCoreAll.dpr -text
+packages/delphi12/ZTestCoreAll.dproj -text
+packages/delphi12/ZTestDbcAll.dpr -text
+packages/delphi12/ZTestDbcAll.dproj -text
+packages/delphi12/ZTestFramework.dpk -text
+packages/delphi12/ZTestFramework.dproj -text
+packages/delphi12/ZTestFramework.res -text
+packages/delphi12/ZTestParseSqlAll.dpr -text
+packages/delphi12/ZTestParseSqlAll.dproj -text
+packages/delphi12/ZTestPerformance.dpr -text
+packages/delphi12/ZeosDbo.groupproj -text
+packages/delphi12/ZeosDboDev.groupproj -text
 packages/delphi7/ZComponent.cfg -text
 packages/delphi7/ZComponent.dof -text
 packages/delphi7/ZComponent.dpk -text

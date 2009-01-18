@@ -46,10 +46,10 @@ artwork/TZTable.bmp -text
 artwork/TZTable.png -text svneol=unset#unset
 artwork/TZTable.xcf -text svneol=unset#unset
 artwork/TZTable.xpm -text
-artwork/TZUpdateSQL.bmp -text svneol=unset#unset
 artwork/TZUpdateSQL.png -text svneol=unset#unset
 artwork/TZUpdateSQL.xcf -text svneol=unset#unset
 artwork/TZUpdateSQL.xpm -text
+artwork/TZUpdateSql.bmp -text
 artwork/ZComponent.rc -text
 artwork/ZComponentReg.lrs -text
 artwork/ZeosBanner_small.png -text
@@ -859,8 +859,8 @@ src/plain/ZPlainInterbaseDriver.pas -text
 src/plain/ZPlainLoader.pas -text
 src/plain/ZPlainMySql41.pas -text
 src/plain/ZPlainMySql5.pas -text
+src/plain/ZPlainMySqlConstants.pas -text
 src/plain/ZPlainMySqlDriver.pas -text
-src/plain/ZPlainMysqlConstants.pas -text
 src/plain/ZPlainMysqlFunc.inc -text
 src/plain/ZPlainMysqlRec.inc -text
 src/plain/ZPlainMysqlVar.inc -text

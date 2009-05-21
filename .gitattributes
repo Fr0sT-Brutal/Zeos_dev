@@ -215,10 +215,6 @@ packages/kylix3/ZPlain.res -text
 packages/kylix3/ZTestFramework.res -text
 packages/kylix3/ZeosDbo.bpg -text
 src/component/ZComponent.dcr -text
-test/dbc/ZTestDbcInterbase.pas -text
-test/dbc/ZTestDbcMySql.pas -text
-test/dbc/ZTestDbcMySqlMetadata.pas -text
-test/dbc/ZTestDbcSqLite.pas -text
 test/external/DUnit.res -text
 test/external/images/actions_images.bmp -text
 test/external/images/dunit.ico -text
@@ -231,4 +227,3 @@ test/external/images/run_images.bmp -text
 test/external/images/state_images.bmp -text
 test/external/versioninfo.res -text
 test/framework/ZMidasTestCase.tlb -text
-test/performance/ZTestPlainPerformance.pas -text

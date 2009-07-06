@@ -65,7 +65,6 @@ documentation/articles/buildingtests/images/callouts/6.PNG -text
 documentation/articles/buildingtests/images/callouts/7.PNG -text
 documentation/articles/buildingtests/images/callouts/8.PNG -text
 documentation/articles/buildingtests/images/callouts/9.PNG -text
-documentation/articles/changes/changes.xml -text
 documentation/articles/overview/images/Overview001.gif -text
 documentation/articles/overview/images/Overview002.gif -text
 documentation/articles/overview/images/Overview003.gif -text
@@ -215,6 +214,8 @@ packages/kylix3/ZPlain.res -text
 packages/kylix3/ZTestFramework.res -text
 packages/kylix3/ZeosDbo.bpg -text
 src/component/ZComponent.dcr -text
+src/core/ZURL.pas -text
+test/core/ZTestURL.pas -text
 test/external/DUnit.res -text
 test/external/images/actions_images.bmp -text
 test/external/images/dunit.ico -text

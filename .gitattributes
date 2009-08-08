@@ -136,7 +136,6 @@ lib/postgresql/libpq74.dll -text
 lib/postgresql/libpq80.dll -text
 lib/postgresql/libpq81.dll -text
 lib/sqlite/sqlite-3.3.8.so -text
-lib/sqlite/sqlite.dll -text
 lib/sqlite/sqlite3.dll -text
 packages/cbuilder12/ZComponent.res -text
 packages/cbuilder12/ZCore.res -text

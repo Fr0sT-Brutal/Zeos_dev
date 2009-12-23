@@ -255,6 +255,11 @@ packages/lazarus/ztestall.lrs -text
 packages/lazarus/ztestall.manifest -text
 packages/lazarus/ztestall.rc -text
 src/component/ZComponent.dcr -text
+src/core/ZFunctionsConvert.pas -text
+src/core/ZFunctionsDateTime.pas -text
+src/core/ZFunctionsMath.pas -text
+src/core/ZFunctionsOther.pas -text
+src/core/ZFunctionsStrings.pas -text
 src/core/ZURL.pas -text
 test/core/ZTestURL.pas -text
 test/external/DUnit.res -text

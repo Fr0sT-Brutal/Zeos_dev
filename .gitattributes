@@ -45,10 +45,12 @@ build/svnant.jar -text
 build/svnjavahl.dll -text
 build/svnjavahl.jar -text
 build/test.xml -text
+database/drop_postgresql_83.sql -text
 database/images/coffee.bmp -text
 database/images/dogs.jpg -text
 database/images/horse.jpg -text
 database/images/zapotec.bmp -text
+database/populate_postgresql_83.sql -text
 database/test.properties -text
 documentation/articles/buildingtests/images/callouts/1.PNG -text
 documentation/articles/buildingtests/images/callouts/10.PNG -text

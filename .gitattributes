@@ -45,6 +45,8 @@ build/svnant.jar -text
 build/svnjavahl.dll -text
 build/svnjavahl.jar -text
 build/test.xml -text
+database/create_oracle_bugreport.sql -text
+database/drop_oracle_bugreport.sql -text
 database/drop_postgresql_83.sql -text
 database/images/coffee.bmp -text
 database/images/dogs.jpg -text
@@ -263,6 +265,8 @@ src/core/ZFunctionsMath.pas -text
 src/core/ZFunctionsOther.pas -text
 src/core/ZFunctionsStrings.pas -text
 src/core/ZURL.pas -text
+test/bugreport/ZTestBugCompOracle.pas -text
+test/bugreport/ZTestBugDbcOracle.pas -text
 test/core/ZTestURL.pas -text
 test/external/DUnit.res -text
 test/external/images/actions_images.bmp -text

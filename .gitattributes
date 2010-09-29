@@ -6,6 +6,7 @@ artwork/TZConnection.xcf -text svneol=unset#unset
 artwork/TZIBEventAlerter.bmp -text
 artwork/TZIBEventAlerter.png -text
 artwork/TZIBEventAlerter.xcf -text
+artwork/TZPgEventAlerter.png -text
 artwork/TZQuery.bmp -text
 artwork/TZQuery.png -text svneol=unset#unset
 artwork/TZQuery.xcf -text svneol=unset#unset
@@ -37,8 +38,6 @@ artwork/ZeosBanner_small.png -text
 artwork/ZeosLogo_small.gif -text
 artwork/favicon.ico -text
 artwork/lazres.exe -text svneol=unset#unset
-build/build.cmd -text
-build/build.properties -text
 build/compiletests.xml -text
 build/svnClientAdapter.jar -text
 build/svnant.jar -text
@@ -53,7 +52,6 @@ database/images/dogs.jpg -text
 database/images/horse.jpg -text
 database/images/zapotec.bmp -text
 database/populate_postgresql_83.sql -text
-database/test.properties -text
 documentation/articles/buildingtests/images/callouts/1.PNG -text
 documentation/articles/buildingtests/images/callouts/10.PNG -text
 documentation/articles/buildingtests/images/callouts/11.PNG -text
@@ -225,6 +223,42 @@ packages/delphi14/ZTestParseSqlAll.dproj -text
 packages/delphi14/ZTestPerformance.dpr -text
 packages/delphi14/ZeosDbo.groupproj -text
 packages/delphi14/ZeosDboDev.groupproj -text
+packages/delphi15/ZComponent.dpk -text
+packages/delphi15/ZComponent.dproj -text
+packages/delphi15/ZComponent.res -text
+packages/delphi15/ZComponentDesign.dpk -text
+packages/delphi15/ZComponentDesign.dproj -text
+packages/delphi15/ZComponentDesign.res -text
+packages/delphi15/ZCore.dpk -text
+packages/delphi15/ZCore.dproj -text
+packages/delphi15/ZCore.res -text
+packages/delphi15/ZDbc.dpk -text
+packages/delphi15/ZDbc.dproj -text
+packages/delphi15/ZDbc.res -text
+packages/delphi15/ZPackages.inc -text
+packages/delphi15/ZParseSql.dpk -text
+packages/delphi15/ZParseSql.dproj -text
+packages/delphi15/ZParseSql.res -text
+packages/delphi15/ZPlain.dpk -text
+packages/delphi15/ZPlain.dproj -text
+packages/delphi15/ZPlain.drc -text
+packages/delphi15/ZPlain.res -text
+packages/delphi15/ZTestBugReport.dpr -text
+packages/delphi15/ZTestBugReport.dproj -text
+packages/delphi15/ZTestComponentAll.dpr -text
+packages/delphi15/ZTestComponentAll.dproj -text
+packages/delphi15/ZTestCoreAll.dpr -text
+packages/delphi15/ZTestCoreAll.dproj -text
+packages/delphi15/ZTestDbcAll.dpr -text
+packages/delphi15/ZTestDbcAll.dproj -text
+packages/delphi15/ZTestFramework.dpk -text
+packages/delphi15/ZTestFramework.dproj -text
+packages/delphi15/ZTestFramework.res -text
+packages/delphi15/ZTestParseSqlAll.dpr -text
+packages/delphi15/ZTestParseSqlAll.dproj -text
+packages/delphi15/ZTestPerformance.dpr -text
+packages/delphi15/ZeosDbo.groupproj -text
+packages/delphi15/ZeosDboDev.groupproj -text
 packages/delphi7/ZComponent.res -text
 packages/delphi7/ZComponentDesign.res -text
 packages/delphi7/ZCore.res -text
@@ -259,6 +293,7 @@ packages/lazarus/ztestall.lrs -text
 packages/lazarus/ztestall.manifest -text
 packages/lazarus/ztestall.rc -text
 src/component/ZComponent.dcr -text
+src/component/ZPgEventAlerter.pas -text
 src/core/ZFunctionsConvert.pas -text
 src/core/ZFunctionsDateTime.pas -text
 src/core/ZFunctionsMath.pas -text

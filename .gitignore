@@ -1,3 +1,5 @@
+build/build.properties
+database/test.properties
 /doc
 packages/delphi7/*.~dpk
 packages/delphi7/build/*.dcu

@@ -312,7 +312,10 @@ packages/lazarus/ztestall.lpr -text
 packages/lazarus/ztestall.lrs -text
 packages/lazarus/ztestall.manifest -text
 packages/lazarus/ztestall.rc -text
+src/component/ZAbstractConnection.pas -text
 src/component/ZComponent.dcr -text
+src/component/ZConnectionGroup.pas -text
+src/component/ZGroupedConnection.pas -text
 src/component/ZPgEventAlerter.pas -text
 src/core/ZFunctionsConvert.pas -text
 src/core/ZFunctionsDateTime.pas -text

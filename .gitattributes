@@ -310,6 +310,7 @@ packages/lazarus/ztestall.lpr -text
 packages/lazarus/ztestall.lrs -text
 packages/lazarus/ztestall.manifest -text
 packages/lazarus/ztestall.rc -text
+src/ZeosLazarus.inc -text
 src/component/ZAbstractConnection.pas -text
 src/component/ZComponent.dcr -text
 src/component/ZConnectionGroup.pas -text

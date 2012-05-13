@@ -1,43 +1,61 @@
 * text=auto !eol
+artwork/Author.txt -text
 artwork/BmpToXpm.exe -text svneol=unset#unset
 artwork/TZConnection.bmp -text
-artwork/TZConnection.png -text svneol=unset#unset
 artwork/TZConnection.xcf -text svneol=unset#unset
+artwork/TZConnectionGroup.bmp -text
+artwork/TZConnectionGroup.xcf -text
+artwork/TZGroupedConnection.bmp -text
+artwork/TZGroupedConnection.xcf -text
 artwork/TZIBEventAlerter.bmp -text
-artwork/TZIBEventAlerter.png -text
 artwork/TZIBEventAlerter.xcf -text
-artwork/TZPgEventAlerter.png -text
+artwork/TZPgEventAlerter.bmp -text
+artwork/TZPgEventAlerter.xcf -text
 artwork/TZQuery.bmp -text
-artwork/TZQuery.png -text svneol=unset#unset
 artwork/TZQuery.xcf -text svneol=unset#unset
 artwork/TZReadOnlyQuery.bmp -text
-artwork/TZReadOnlyQuery.png -text svneol=unset#unset
 artwork/TZReadOnlyQuery.xcf -text svneol=unset#unset
-artwork/TZSQLMetadata.png -text svneol=unset#unset
 artwork/TZSQLMetadata.xcf -text svneol=unset#unset
-artwork/TZSQLMonitor.png -text svneol=unset#unset
 artwork/TZSQLMonitor.xcf -text svneol=unset#unset
-artwork/TZSQLProcessor.png -text svneol=unset#unset
 artwork/TZSQLProcessor.xcf -text svneol=unset#unset
 artwork/TZSequence.bmp -text
-artwork/TZSequence.png -text svneol=unset#unset
 artwork/TZSequence.xcf -text svneol=unset#unset
 artwork/TZSqlMetadata.bmp -text
 artwork/TZSqlMonitor.bmp -text
 artwork/TZSqlProcessor.bmp -text
 artwork/TZStoredProc.bmp -text
-artwork/TZStoredProc.png -text svneol=unset#unset
 artwork/TZStoredProc.xcf -text svneol=unset#unset
 artwork/TZTable.bmp -text
-artwork/TZTable.png -text svneol=unset#unset
 artwork/TZTable.xcf -text svneol=unset#unset
-artwork/TZUpdateSQL.png -text svneol=unset#unset
 artwork/TZUpdateSQL.xcf -text svneol=unset#unset
 artwork/TZUpdateSql.bmp -text
 artwork/ZeosBanner_small.png -text
 artwork/ZeosLogo_small.gif -text
 artwork/favicon.ico -text
 artwork/lazres.exe -text svneol=unset#unset
+artwork/make_resources.bat -text
+artwork/rc.exe -text
+artwork/sources/.directory -text
+artwork/sources/150px-Pg_logo.png -text
+artwork/sources/Haettenschweiler[!!-~]Regular.ttf -text
+artwork/sources/LogoFirebird.gif -text
+artwork/sources/Shablons_arrow.svg -text
+artwork/sources/Shablons_red_circle.xcf -text
+artwork/sources/Shablons_sql_word.xcf -text
+artwork/sources/Shablons_table.xcf -text
+artwork/sources/TZConnection.png -text
+artwork/sources/arial8.pfb -text
+artwork/sources/arialbd8.pfb -text
+artwork/sources/arialbi8.pfb -text
+artwork/sources/ariali8.pfb -text
+artwork/sources/bell.xcf -text
+artwork/sources/cylindre.png -text
+artwork/sources/cylindre.svg -text
+artwork/sources/letter_z.xcf -text
+artwork/sources/quard.svg -text
+artwork/sources/sign.png -text
+artwork/sources/sign.svg -text
+artwork/sources/stock_bell.png -text
 build/compiletests.xml -text
 build/svnClientAdapter.jar -text
 build/svnant.jar -text
@@ -270,12 +288,15 @@ packages/delphi16/ZComponent.res -text
 packages/delphi16/ZComponentDesign.dpk -text
 packages/delphi16/ZComponentDesign.dproj -text
 packages/delphi16/ZComponentDesign.res -text
+packages/delphi16/ZComponentDesign_Icon.ico -text
+packages/delphi16/ZComponent_Icon.ico -text
 packages/delphi16/ZCore.dpk -text
 packages/delphi16/ZCore.dproj -text
 packages/delphi16/ZCore.res -text
 packages/delphi16/ZDbc.dpk -text
 packages/delphi16/ZDbc.dproj -text
 packages/delphi16/ZDbc.res -text
+packages/delphi16/ZDbc_Icon.ico -text
 packages/delphi16/ZPackages.inc -text
 packages/delphi16/ZParseSql.dpk -text
 packages/delphi16/ZParseSql.dproj -text
@@ -284,6 +305,7 @@ packages/delphi16/ZPlain.dpk -text
 packages/delphi16/ZPlain.dproj -text
 packages/delphi16/ZPlain.drc -text
 packages/delphi16/ZPlain.res -text
+packages/delphi16/ZPlain_Icon.ico -text
 packages/delphi16/ZTestBugReport.dpr -text
 packages/delphi16/ZTestBugReport.dproj -text
 packages/delphi16/ZTestComponentAll.dpr -text
@@ -295,11 +317,13 @@ packages/delphi16/ZTestDbcAll.dproj -text
 packages/delphi16/ZTestFramework.dpk -text
 packages/delphi16/ZTestFramework.dproj -text
 packages/delphi16/ZTestFramework.res -text
+packages/delphi16/ZTestFramework_Icon.ico -text
 packages/delphi16/ZTestParseSqlAll.dpr -text
 packages/delphi16/ZTestParseSqlAll.dproj -text
 packages/delphi16/ZTestPerformance.dpr -text
 packages/delphi16/ZeosDbo.groupproj -text
 packages/delphi16/ZeosDboDev.groupproj -text
+packages/delphi16/ZeosDbo_prjgroup.tvsconfig -text
 packages/delphi7/ZComponent.res -text
 packages/delphi7/ZComponentDesign.res -text
 packages/delphi7/ZCore.res -text
@@ -334,8 +358,7 @@ src/core/ZFunctionsOther.pas -text
 src/core/ZFunctionsStrings.pas -text
 src/core/ZURL.pas -text
 src/dbc/ZDbcDbLibMetadata.pas -text
-src/plain/ZPlainFreeTDSConstants.pas -text
-src/plain/ZPlainFreeTDSDriver.pas -text
+src/plain/ZPlainDbLibConstants.pas -text
 test/bugreport/ZTestBugCompOracle.pas -text
 test/bugreport/ZTestBugDbcOracle.pas -text
 test/core/ZTestURL.pas -text

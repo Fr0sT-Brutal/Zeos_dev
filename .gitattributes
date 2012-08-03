@@ -226,6 +226,7 @@ packages/Delphi2005/ZTestPerformance.bdsproj -text
 packages/Delphi2005/ZTestPerformance.dpr -text
 packages/Delphi2005/ZeosDbo.bdsgroup -text
 packages/Delphi2005/ZeosDboDev.bdsgroup -text
+packages/Delphi2005/build/test.cmd -text
 packages/Delphi2007/ZComponent.dpk -text
 packages/Delphi2007/ZComponent.dproj -text
 packages/Delphi2007/ZComponent.res -text
@@ -264,6 +265,7 @@ packages/Delphi2007/ZTestPerformance.dpr -text
 packages/Delphi2007/ZTestPerformance.dproj -text
 packages/Delphi2007/ZeosDbo.groupproj -text
 packages/Delphi2007/ZeosDboDev.groupproj -text
+packages/Delphi2007/build/test.cmd -text
 packages/Delphi2009/ZComponent.dpk -text
 packages/Delphi2009/ZComponent.dproj -text
 packages/Delphi2009/ZComponent.res -text
@@ -300,6 +302,7 @@ packages/Delphi2009/ZTestParseSqlAll.dproj -text
 packages/Delphi2009/ZTestPerformance.dpr -text
 packages/Delphi2009/ZeosDbo.groupproj -text
 packages/Delphi2009/ZeosDboDev.groupproj -text
+packages/Delphi2009/build/test.cmd -text
 packages/Delphi2010/ZComponent.dpk -text
 packages/Delphi2010/ZComponent.dproj -text
 packages/Delphi2010/ZComponent.res -text
@@ -336,6 +339,7 @@ packages/Delphi2010/ZTestParseSqlAll.dproj -text
 packages/Delphi2010/ZTestPerformance.dpr -text
 packages/Delphi2010/ZeosDbo.groupproj -text
 packages/Delphi2010/ZeosDboDev.groupproj -text
+packages/Delphi2010/build/test.cmd -text
 packages/DelphiXE/ProjectGroup16.groupproj -text
 packages/DelphiXE/ZComponent.dpk -text
 packages/DelphiXE/ZComponent.dproj -text
@@ -375,8 +379,11 @@ packages/DelphiXE/ZTestFramework.res -text
 packages/DelphiXE/ZTestParseSqlAll.dpr -text
 packages/DelphiXE/ZTestParseSqlAll.dproj -text
 packages/DelphiXE/ZTestPerformance.dpr -text
+packages/DelphiXE/ZTestPerformance.dproj -text
 packages/DelphiXE/ZeosDbo.groupproj -text
 packages/DelphiXE/ZeosDboDev.groupproj -text
+packages/DelphiXE/build/test.cmd -text
+packages/DelphiXE2/Build/test.cmd -text
 packages/DelphiXE2/ProjectGroup16.groupproj -text
 packages/DelphiXE2/ZComponent.dpk -text
 packages/DelphiXE2/ZComponent.dproj -text
@@ -447,6 +454,7 @@ packages/delphi7/ZDbc.res -text
 packages/delphi7/ZParseSql.res -text
 packages/delphi7/ZPlain.res -text
 packages/delphi7/ZTestFramework.res -text
+packages/delphi7/build/test.cmd -text
 packages/delphi9/ZComponent.identcache -text
 packages/delphi9/ZComponent.res -text
 packages/delphi9/ZComponentDesign.res -text
@@ -455,6 +463,7 @@ packages/delphi9/ZDbc.res -text
 packages/delphi9/ZParseSql.res -text
 packages/delphi9/ZPlain.res -text
 packages/delphi9/ZTestFramework.res -text
+packages/delphi9/build/test.cmd -text
 packages/lazarus/ztestall.ico -text
 packages/lazarus/ztestall.lpi -text
 packages/lazarus/ztestall.lpr -text
@@ -475,7 +484,9 @@ src/core/ZFunctionsStrings.pas -text
 src/core/ZURL.pas -text
 src/dbc/ZDbcDbLibMetadata.pas -text
 src/plain/ZPlainDbLibConstants.pas -text
+src/plain/ZPlainOracleConstants.pas -text
 test/bugreport/ZTestBugCompOracle.pas -text
+test/bugreport/ZTestBugCompSQLite.pas -text
 test/bugreport/ZTestBugDbcOracle.pas -text
 test/config/Units/formmain.lfm -text
 test/config/Units/formmain.pas -text

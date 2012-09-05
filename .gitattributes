@@ -488,13 +488,17 @@ src/plain/ZPlainOracleConstants.pas -text
 test/bugreport/ZTestBugCompOracle.pas -text
 test/bugreport/ZTestBugCompSQLite.pas -text
 test/bugreport/ZTestBugDbcOracle.pas -text
+test/bugreport/ZTestBugReports.pas -text
+test/component/ZTestComponents.pas -text
 test/config/Units/formmain.lfm -text
 test/config/Units/formmain.pas -text
 test/config/ZTestConfig.ico -text
 test/config/ZTestConfig.lpi -text
 test/config/ZTestConfig.lpr -text
 test/config/ZTestConfig.res -text
+test/core/ZTestCore.pas -text
 test/core/ZTestURL.pas -text
+test/dbc/ZTestDbc.pas -text
 test/external/DUnit.res -text
 test/external/images/actions_images.bmp -text
 test/external/images/dunit.ico -text
@@ -507,6 +511,7 @@ test/external/images/run_images.bmp -text
 test/external/images/state_images.bmp -text
 test/external/versioninfo.res -text
 test/framework/ZMidasTestCase.tlb -text
+test/parsesql/ZTestParseSql.pas -text
 zeosbugtemplate/bin/database/TESTDB.FDB -text
 zeosbugtemplate/img/zeosbug.ico -text
 zeosbugtemplate/src/ZeosBugTemplate.dpr -text

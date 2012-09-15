@@ -288,6 +288,7 @@ packages/Delphi2009/ZPlain.dproj -text
 packages/Delphi2009/ZPlain.drc -text
 packages/Delphi2009/ZPlain.res -text
 packages/Delphi2009/ZTestBugReport.dpr -text
+packages/Delphi2009/ZTestBugReport.dproj -text
 packages/Delphi2009/ZTestComponentAll.dpr -text
 packages/Delphi2009/ZTestComponentAll.dproj -text
 packages/Delphi2009/ZTestCoreAll.dpr -text
@@ -325,6 +326,7 @@ packages/Delphi2010/ZPlain.dproj -text
 packages/Delphi2010/ZPlain.drc -text
 packages/Delphi2010/ZPlain.res -text
 packages/Delphi2010/ZTestBugReport.dpr -text
+packages/Delphi2010/ZTestBugReport.dproj -text
 packages/Delphi2010/ZTestComponentAll.dpr -text
 packages/Delphi2010/ZTestComponentAll.dproj -text
 packages/Delphi2010/ZTestCoreAll.dpr -text
@@ -464,6 +466,7 @@ packages/delphi9/ZParseSql.res -text
 packages/delphi9/ZPlain.res -text
 packages/delphi9/ZTestFramework.res -text
 packages/delphi9/build/test.cmd -text
+packages/lazarus/build/test.cmd -text
 packages/lazarus/ztestall.ico -text
 packages/lazarus/ztestall.lpi -text
 packages/lazarus/ztestall.lpr -text

@@ -69,6 +69,7 @@ database/images/coffee.bmp -text
 database/images/dogs.jpg -text
 database/images/horse.jpg -text
 database/images/zapotec.bmp -text
+database/populate_any_ado.sql -text
 database/populate_postgresql_83.sql -text
 documentation/articles/buildingtests/images/callouts/1.PNG -text
 documentation/articles/buildingtests/images/callouts/10.PNG -text
@@ -524,6 +525,7 @@ src/core/ZFunctionsOther.pas -text
 src/core/ZFunctionsStrings.pas -text
 src/core/ZURL.pas -text
 src/dbc/ZDbcDbLibMetadata.pas -text
+src/plain/ZPlainASAConstants.pas -text
 src/plain/ZPlainDbLibConstants.pas -text
 src/plain/ZPlainOracleConstants.pas -text
 test/bugreport/ZTestBugCompOracle.pas -text

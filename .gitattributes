@@ -62,7 +62,9 @@ build/svnant.jar -text
 build/svnjavahl.dll -text
 build/svnjavahl.jar -text
 build/test.xml -text
+database/create_asa12.sql -text
 database/create_oracle_bugreport.sql -text
+database/drop_asa12.sql -text
 database/drop_oracle_bugreport.sql -text
 database/drop_postgresql_83.sql -text
 database/images/coffee.bmp -text

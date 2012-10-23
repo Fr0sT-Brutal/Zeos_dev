@@ -170,6 +170,7 @@ lib/firebird/windows/32bit/2.5.0.26054/udf/fbudf.txt -text
 lib/firebird/windows/32bit/2.5.0.26054/udf/ib_udf.dll -text
 lib/firebird/windows/32bit/2.5.0.26054/udf/ib_udf.sql -text
 lib/firebird/windows/32bit/2.5.0.26054/udf/ib_udf2.sql -text
+lib/freetds/Lazarus/ReadMe.txt -text
 lib/freetds/borland/msdblibd.dll -text
 lib/freetds/borland/msdblibr.dll -text
 lib/freetds/borland/sybdblibd.dll -text

@@ -522,6 +522,7 @@ src/component/ZComponent.dcr -text
 src/component/ZConnectionGroup.pas -text
 src/component/ZGroupedConnection.pas -text
 src/component/ZPgEventAlerter.pas -text
+src/core/ZEncoding.pas -text
 src/core/ZFunctionsConvert.pas -text
 src/core/ZFunctionsDateTime.pas -text
 src/core/ZFunctionsMath.pas -text

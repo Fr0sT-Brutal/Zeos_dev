@@ -533,6 +533,7 @@ src/dbc/ZDbcDbLibMetadata.pas -text
 src/plain/ZPlainASAConstants.pas -text
 src/plain/ZPlainDbLibConstants.pas -text
 src/plain/ZPlainOracleConstants.pas -text
+src/repl.instructions -text
 test/bugreport/ZTestBugCompOracle.pas -text
 test/bugreport/ZTestBugCompSQLite.pas -text
 test/bugreport/ZTestBugDbcOracle.pas -text

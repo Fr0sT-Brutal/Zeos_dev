@@ -104,7 +104,6 @@ documentation/images/banner2.jpg -text
 documentation/images/zeos_logo.gif -text
 examples/blobs/ZBlobs.res -text
 examples/controls/ZControlsExample.res -text
-examples/dbc/DbcDemo.identcache -text
 examples/dbc/DbcDemo.res -text
 examples/design/ZDesignTime.res -text
 examples/embedded/data/mysql/time_zone.MYI -text
@@ -121,7 +120,6 @@ examples/embedded/data/zeoslib/people.MYD -text
 examples/embedded/data/zeoslib/people.MYI -text
 examples/embedded/data/zeoslib/people.frm -text
 examples/embedded/share/english/errmsg.sys -text
-examples/simple/ZSimple.identcache -text
 examples/simple/ZSimple.res -text
 lib/firebird/windows/32bit/1.5.3.4870/fbclient15.dll -text
 lib/firebird/windows/32bit/1.5.3.4870/fbclientd15.dll -text
@@ -500,7 +498,6 @@ packages/delphi7/ZParseSql.res -text
 packages/delphi7/ZPlain.res -text
 packages/delphi7/ZTestFramework.res -text
 packages/delphi7/build/test.cmd -text
-packages/delphi9/ZComponent.identcache -text
 packages/delphi9/ZComponent.res -text
 packages/delphi9/ZComponentDesign.res -text
 packages/delphi9/ZCore.res -text
@@ -565,9 +562,7 @@ zeosbugtemplate/bin/database/TESTDB.FDB -text
 zeosbugtemplate/img/zeosbug.ico -text
 zeosbugtemplate/src/ZeosBugTemplate.dpr -text
 zeosbugtemplate/src/ZeosBugTemplate.dproj -text
-zeosbugtemplate/src/ZeosBugTemplate.dproj.local -text
 zeosbugtemplate/src/ZeosBugTemplate.ico -text
-zeosbugtemplate/src/ZeosBugTemplate.identcache -text
 zeosbugtemplate/src/ZeosBugTemplate.lpi -text
 zeosbugtemplate/src/ZeosBugTemplate.res -text
 zeosbugtemplate/src/uBugTemplate.dfm -text

@@ -182,10 +182,8 @@ lib/freetds/vs2010x86/msdblibd.dll -text
 lib/freetds/vs2010x86/msdblibr.dll -text
 lib/freetds/vs2010x86/sybdblibd.dll -text
 lib/freetds/vs2010x86/sybdblibr.dll -text
-lib/mysql/libmySQL50.dll -text
-lib/mysql/libmysql41.dll -text
-lib/mysql/libmysql51.dll -text
-lib/mysql/libmysql55.dll -text
+lib/mysql/mariadb_client-1.0.0-win32.zip -text
+lib/mysql/mariadb_client-1.0.0-win64.zip -text
 lib/postgresql/libpq73.dll -text
 lib/postgresql/libpq74.dll -text
 lib/postgresql/libpq80.dll -text

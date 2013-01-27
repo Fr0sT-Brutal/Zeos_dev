@@ -191,6 +191,7 @@ packages/Delphi2009/ZPlain.drc -text
 packages/Delphi2009/ZPlain.res -text
 packages/Delphi2009/ZTestDbcAll.dproj -text
 packages/Delphi2009/ZTestFramework.res -text
+packages/Delphi2009/ZTestPerformance.dproj -text
 packages/Delphi2010/ZComponent.res -text
 packages/Delphi2010/ZComponentDesign.res -text
 packages/Delphi2010/ZCore.res -text
@@ -200,6 +201,7 @@ packages/Delphi2010/ZPlain.drc -text
 packages/Delphi2010/ZPlain.res -text
 packages/Delphi2010/ZTestDbcAll.dproj -text
 packages/Delphi2010/ZTestFramework.res -text
+packages/Delphi2010/ZTestPerformance.dproj -text
 packages/DelphiXE/ZComponent.res -text
 packages/DelphiXE/ZComponentDesign.res -text
 packages/DelphiXE/ZComponentDesign_Icon.ico -text

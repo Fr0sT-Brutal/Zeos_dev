@@ -253,6 +253,9 @@ packages/delphi7/ZCore.res -text
 packages/delphi7/ZDbc.res -text
 packages/delphi7/ZParseSql.res -text
 packages/delphi7/ZPlain.res -text
+packages/delphi7/ZTestAll.cfg -text
+packages/delphi7/ZTestAll.dof -text
+packages/delphi7/ZTestAll.dpr -text
 packages/delphi7/ZTestFramework.res -text
 packages/delphi9/ZComponent.res -text
 packages/delphi9/ZComponentDesign.res -text

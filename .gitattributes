@@ -310,6 +310,14 @@ test/config/Units/formmain.lfm -text
 test/config/ZTestConfig.ico -text
 test/config/ZTestConfig.res -text
 test/external/DUnit.res -text
+test/external/DUnitConsts.pas -text
+test/external/DUnitExpert.res -text
+test/external/DUnitW32.bdsgroup -text
+test/external/DUnitW32.bdsproj -text
+test/external/DUnitW32.dpr -text
+test/external/DUnitW32.res -text
+test/external/FastMMMemLeakMonitor.pas -text
+test/external/HeidiTestRunner.pas -text
 test/external/images/actions_images.bmp -text
 test/external/images/dunit.ico -text
 test/external/images/dunit16.ico -text

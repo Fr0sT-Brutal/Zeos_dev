@@ -197,7 +197,6 @@ packages/Delphi2009/ZTestAll.dpr -text
 packages/Delphi2009/ZTestAll.dproj -text
 packages/Delphi2009/ZTestFramework.res -text
 packages/Delphi2009/ZTestPerformance.dproj -text
-packages/Delphi2009/_ZTestAll.dproj -text
 packages/Delphi2010/ZComponent.res -text
 packages/Delphi2010/ZComponentDesign.res -text
 packages/Delphi2010/ZCore.res -text
@@ -283,6 +282,15 @@ test/config/Units/formmain.lfm -text
 test/config/ZTestConfig.ico -text
 test/config/ZTestConfig.res -text
 test/external/DUnit.res -text
+test/external/DUnitConsts.pas -text
+test/external/DUnitExpert.res -text
+test/external/DUnitW32.bdsgroup -text
+test/external/DUnitW32.bdsproj -text
+test/external/DUnitW32.dpr -text
+test/external/DUnitW32.res -text
+test/external/FastMMMemLeakMonitor.pas -text
+test/external/HeidiTestRunner.pas -text
+test/external/MemCheck.pas -text
 test/external/images/actions_images.bmp -text
 test/external/images/dunit.ico -text
 test/external/images/dunit16.ico -text

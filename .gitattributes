@@ -304,6 +304,7 @@ packages/lazarus/ztestall.lrs -text
 packages/lazarus/ztestall.manifest -text
 packages/lazarus/ztestall.rc -text
 src/component/ZComponent.dcr -text
+src/parsesql/ZAdoToken.pas -text
 test/bugreport/ZTestBugCompADO.pas -text
 test/config/Units/formmain.lfm -text
 test/config/ZTestConfig.ico -text

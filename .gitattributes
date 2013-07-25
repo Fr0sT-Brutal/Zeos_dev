@@ -175,7 +175,6 @@ packages/Delphi2005/ZParseSql.res -text
 packages/Delphi2005/ZPlain.res -text
 packages/Delphi2005/ZTestAll.bdsproj -text
 packages/Delphi2005/ZTestAll.dpr -text
-packages/Delphi2005/ZTestFramework.res -text
 packages/Delphi2007/ZComponent.res -text
 packages/Delphi2007/ZComponentDesign.res -text
 packages/Delphi2007/ZCore.res -text
@@ -185,7 +184,6 @@ packages/Delphi2007/ZPlain.drc -text
 packages/Delphi2007/ZPlain.res -text
 packages/Delphi2007/ZTestAll.dpr -text
 packages/Delphi2007/ZTestAll.dproj -text
-packages/Delphi2007/ZTestFramework.res -text
 packages/Delphi2009/ZComponent.res -text
 packages/Delphi2009/ZComponentDesign.res -text
 packages/Delphi2009/ZCore.res -text
@@ -195,8 +193,6 @@ packages/Delphi2009/ZPlain.drc -text
 packages/Delphi2009/ZPlain.res -text
 packages/Delphi2009/ZTestAll.dpr -text
 packages/Delphi2009/ZTestAll.dproj -text
-packages/Delphi2009/ZTestFramework.res -text
-packages/Delphi2009/ZTestPerformance.dproj -text
 packages/Delphi2010/ZComponent.res -text
 packages/Delphi2010/ZComponentDesign.res -text
 packages/Delphi2010/ZCore.res -text
@@ -206,8 +202,6 @@ packages/Delphi2010/ZPlain.drc -text
 packages/Delphi2010/ZPlain.res -text
 packages/Delphi2010/ZTestAll.dpr -text
 packages/Delphi2010/ZTestAll.dproj -text
-packages/Delphi2010/ZTestFramework.res -text
-packages/Delphi2010/ZTestPerformance.dproj -text
 packages/DelphiXE/ZComponent.res -text
 packages/DelphiXE/ZComponentDesign.res -text
 packages/DelphiXE/ZComponentDesign_Icon.ico -text
@@ -221,7 +215,6 @@ packages/DelphiXE/ZPlain.res -text
 packages/DelphiXE/ZPlain_Icon.ico -text
 packages/DelphiXE/ZTestAll.dpr -text
 packages/DelphiXE/ZTestAll.dproj -text
-packages/DelphiXE/ZTestFramework.res -text
 packages/DelphiXE2/ZComponent.res -text
 packages/DelphiXE2/ZComponentDesign.res -text
 packages/DelphiXE2/ZComponentDesign_Icon.ico -text
@@ -235,10 +228,7 @@ packages/DelphiXE2/ZPlain.res -text
 packages/DelphiXE2/ZPlain_Icon.ico -text
 packages/DelphiXE2/ZTestAll.dpr -text
 packages/DelphiXE2/ZTestAll.dproj -text
-packages/DelphiXE2/ZTestFramework.res -text
-packages/DelphiXE2/ZTestFramework_Icon.ico -text
-packages/DelphiXE2/ZTestFramework_Icon1.ico -text
-packages/DelphiXE2/ZTestPerformance.res -text
+packages/DelphiXE3/ZComponent.res -text
 packages/DelphiXE3/ZComponentDesign_Icon.ico -text
 packages/DelphiXE3/ZComponent_Icon.ico -text
 packages/DelphiXE3/ZDbc_Icon.ico -text
@@ -246,8 +236,6 @@ packages/DelphiXE3/ZPlain.drc -text
 packages/DelphiXE3/ZPlain_Icon.ico -text
 packages/DelphiXE3/ZTestAll.dpr -text
 packages/DelphiXE3/ZTestAll.dproj -text
-packages/DelphiXE3/ZTestFramework_Icon.ico -text
-packages/DelphiXE3/ZeosDbo_prjgroup.tvsconfig -text
 packages/DelphiXE4/ProjectGroup18.groupproj -text
 packages/DelphiXE4/ProjectGroup18.groupproj.local -text
 packages/DelphiXE4/ZComponent.dpk -text
@@ -300,15 +288,14 @@ packages/delphi7/ZPlain.res -text
 packages/delphi7/ZTestAll.cfg -text
 packages/delphi7/ZTestAll.dof -text
 packages/delphi7/ZTestAll.dpr -text
-packages/delphi7/ZTestFramework.res -text
 packages/delphi9/ZComponent.res -text
 packages/delphi9/ZComponentDesign.res -text
 packages/delphi9/ZCore.res -text
 packages/delphi9/ZDbc.res -text
 packages/delphi9/ZParseSql.res -text
 packages/delphi9/ZPlain.res -text
+packages/delphi9/ZTestAll.bdsproj -text
 packages/delphi9/ZTestAll.dpr -text
-packages/delphi9/ZTestFramework.res -text
 packages/lazarus/ztestall.ico -text
 packages/lazarus/ztestall.lrs -text
 packages/lazarus/ztestall.manifest -text
@@ -340,6 +327,7 @@ test/external/images/run_images.bmp -text
 test/external/images/state_images.bmp -text
 test/external/versioninfo.res -text
 test/framework/ZMidasTestCase.tlb -text
+test/performance/ZTestPerformance.pas -text
 zeosbugtemplate/bin/database/TESTDB.FDB -text
 zeosbugtemplate/img/zeosbug.ico -text
 zeosbugtemplate/src/ZeosBugTemplate.ico -text

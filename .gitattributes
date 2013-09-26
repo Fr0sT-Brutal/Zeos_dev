@@ -164,6 +164,7 @@ lib/postgresql/libpq73.dll -text
 lib/postgresql/libpq74.dll -text
 lib/postgresql/libpq80.dll -text
 lib/postgresql/libpq81.dll -text
+lib/sqlite/Win32/sqlite3.def -text
 lib/sqlite/Win32/sqlite3.dll -text
 lib/sqlite/Win64/info.txt -text
 lib/sqlite/Win64/sqlite3-64.dll -text

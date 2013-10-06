@@ -76,6 +76,7 @@ documentation/articles/overview/images/Overview001.gif -text
 documentation/articles/overview/images/Overview002.gif -text
 documentation/articles/overview/images/Overview003.gif -text
 documentation/eDE_patches/DocBook/bin/HtmlAsText.exe -text
+documentation/eDE_patches/DocBook/stylesheet/custom_configuration.bat -text
 documentation/fundamentals/Fundamentals[!!-~]of[!!-~]Software[!!-~]Testing.doc -text
 documentation/fundamentals/ZeosLib[!!-~]-[!!-~]Getting[!!-~]Started.doc -text
 documentation/fundamentals/ZeosLib[!!-~]-[!!-~]Organization[!!-~]and[!!-~]Structure.doc -text

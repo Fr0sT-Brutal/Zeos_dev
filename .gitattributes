@@ -365,6 +365,7 @@ packages/lazarus/ztestall.rc -text
 src/component/ZComponent.dcr -text
 src/core/ZFastCode.pas -text
 src/parsesql/ZAdoToken.pas -text
+src/plain/ZOleDB.pas -text
 test/bugreport/ZTestBugCompADO.pas -text
 test/config/Units/formmain.lfm -text
 test/config/ZTestConfig.ico -text

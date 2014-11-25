@@ -370,6 +370,7 @@ test/bugreport/ZTestBugCompADO.pas -text
 test/config/Units/formmain.lfm -text
 test/config/ZTestConfig.ico -text
 test/config/ZTestConfig.res -text
+test/dbc/ZTestDbcADO.pas -text
 test/external/DUnit.res -text
 test/external/DUnitConsts.pas -text
 test/external/DUnitExpert.res -text

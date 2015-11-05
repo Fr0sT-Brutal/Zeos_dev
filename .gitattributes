@@ -389,6 +389,7 @@ packages/lazarus/ztestall.manifest -text
 packages/lazarus/ztestall.rc -text
 src/component/ZComponent.dcr -text
 src/core/ZFastCode.pas -text
+src/dbc svn_global_002dignores=__history%0A
 src/parsesql/ZAdoToken.pas -text
 src/plain/ZOleDB.pas -text
 test/bugreport/ZTestBugCompADO.pas -text

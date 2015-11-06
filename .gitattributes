@@ -310,8 +310,11 @@ packages/DelphiXE5/ZPlain.dpk -text
 packages/DelphiXE5/ZPlain.dproj -text
 packages/DelphiXE5/ZPlain.drc -text
 packages/DelphiXE5/ZPlain_Icon.ico -text
+packages/DelphiXE5/ZTestAll.dpr -text
+packages/DelphiXE5/ZTestAll.dproj -text
 packages/DelphiXE5/ZeosDbo.dsk -text
 packages/DelphiXE5/ZeosDbo.groupproj -text
+packages/DelphiXE5/ZeosDboDev.groupproj -text
 packages/DelphiXE6/ProjectGroup20.groupproj -text
 packages/DelphiXE6/ZComponent.dpk -text
 packages/DelphiXE6/ZComponent.dproj -text

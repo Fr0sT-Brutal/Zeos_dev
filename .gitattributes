@@ -184,7 +184,6 @@ packages/Delphi2009/ZComponentDesign.res -text
 packages/Delphi2009/ZCore.res -text
 packages/Delphi2009/ZDbc.res -text
 packages/Delphi2009/ZParseSql.res -text
-packages/Delphi2009/ZPlain.drc -text
 packages/Delphi2009/ZPlain.res -text
 packages/Delphi2009/ZTestAll.dpr -text
 packages/Delphi2009/ZTestAll.dproj -text
@@ -193,7 +192,6 @@ packages/Delphi2010/ZComponentDesign.res -text
 packages/Delphi2010/ZCore.res -text
 packages/Delphi2010/ZDbc.res -text
 packages/Delphi2010/ZParseSql.res -text
-packages/Delphi2010/ZPlain.drc -text
 packages/Delphi2010/ZPlain.res -text
 packages/Delphi2010/ZTestAll.dpr -text
 packages/Delphi2010/ZTestAll.dproj -text

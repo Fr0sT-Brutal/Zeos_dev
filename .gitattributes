@@ -57,6 +57,7 @@ database/images/coffee.bmp -text
 database/images/dogs.jpg -text
 database/images/horse.jpg -text
 database/images/zapotec.bmp -text
+database/populate_postgresql_bugreport_81.sql -text
 documentation/articles/buildingtests/images/callouts/1.PNG -text
 documentation/articles/buildingtests/images/callouts/10.PNG -text
 documentation/articles/buildingtests/images/callouts/11.PNG -text

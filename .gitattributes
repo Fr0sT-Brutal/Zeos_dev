@@ -88,6 +88,11 @@ documentation/images/banner2.jpg -text
 documentation/images/zeos_logo.gif -text
 documentation/tex/ZeosDocumentationCollection.tcp -text
 documentation/tex/ZeosDocumentationCollection.tex -text
+documentation/tex/ZeosTutorial/dbgrid1_columns.png -text
+documentation/tex/ZeosTutorial/dmEasyQuery.png -text
+documentation/tex/ZeosTutorial/dmEasyQuery_updCustomer_options.png -text
+documentation/tex/ZeosTutorial/dmEasyQuery_updCustomer_sql.png -text
+documentation/tex/ZeosTutorial/frmEasyQuery.png -text
 documentation/tex/readme.txt -text
 examples/blobs/ZBlobs.res -text
 examples/controls/ZControlsExample.res -text

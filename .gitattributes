@@ -460,6 +460,7 @@ test/external/DUnitW32.res -text
 test/external/FastMMMemLeakMonitor.pas -text
 test/external/HeidiTestRunner.pas -text
 test/external/MemCheck.pas -text
+test/external/XMLTestRunner2.pas -text
 test/external/images/actions_images.bmp -text
 test/external/images/dunit.ico -text
 test/external/images/dunit16.ico -text

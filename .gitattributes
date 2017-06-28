@@ -86,6 +86,19 @@ documentation/howto/Implementing[!!-~]A[!!-~]New[!!-~]Database.odt -text
 documentation/images/banner.jpg -text
 documentation/images/banner2.jpg -text
 documentation/images/zeos_logo.gif -text
+documentation/tex/BTE/CygwinSetup.png -text
+documentation/tex/BTE/Together1.png -text
+documentation/tex/BTE/Together2.png -text
+documentation/tex/BTE/XmlSpy1.png -text
+documentation/tex/BTE/XmlSpy2.png -text
+documentation/tex/ZeosDocumentationCollection.tcp -text
+documentation/tex/ZeosDocumentationCollection.tex -text
+documentation/tex/ZeosTutorial/dbgrid1_columns.png -text
+documentation/tex/ZeosTutorial/dmEasyQuery.png -text
+documentation/tex/ZeosTutorial/dmEasyQuery_updCustomer_options.png -text
+documentation/tex/ZeosTutorial/dmEasyQuery_updCustomer_sql.png -text
+documentation/tex/ZeosTutorial/frmEasyQuery.png -text
+documentation/tex/readme.txt -text
 examples/blobs/ZBlobs.res -text
 examples/controls/ZControlsExample.res -text
 examples/dbc/DbcDemo.res -text
@@ -452,6 +465,7 @@ test/external/DUnitW32.res -text
 test/external/FastMMMemLeakMonitor.pas -text
 test/external/HeidiTestRunner.pas -text
 test/external/MemCheck.pas -text
+test/external/XMLTestRunner2.pas -text
 test/external/images/actions_images.bmp -text
 test/external/images/dunit.ico -text
 test/external/images/dunit16.ico -text
